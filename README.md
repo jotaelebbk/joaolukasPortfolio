@@ -1,2 +1,2 @@
 # joaolukasPortfolio
-My first portfolio only using HTML and CSS
+My first portfolio using only HTML and CSS

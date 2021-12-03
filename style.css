@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+
+#myPhoto{
+    padding-top: 70px;
+}
+
+
+#meuNome{
+    font-size: 100px;
+    
+}
+
+#navBar{
+    padding-top: -10px; 
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+
+#socialMediaIcons{
+    padding-top: 70px;
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+
+#skillsTitle{
+    font-size: 100px;
+}
+#resumeTitle{
+    font-size: 100px;
+}
+
+#projectsTitle{
+    font-size: 100px;
+}
+
+#htmlSkill{
+    letter-spacing: 2px;
+    text-align: left;
+    background-color: #190061;
+}
+
+#cssSkill{
+    letter-spacing: 2px;
+    text-align: right;
+    background-color: #282828;
+}
+
+#bootstrapSkill{
+    letter-spacing: 2px;
+    text-align: left;
+    background-color: #190061;
+}
+
+#jsSkill{
+    letter-spacing: 2px;
+    text-align: right;
+    background-color: #282828;
+}
+
+#pythonSkill{
+    letter-spacing: 2px;
+    text-align: left;
+    background-color: #190061;
+}
+
+#gitSkill{
+    letter-spacing: 2px;
+    text-align: right;
+    background-color: #282828;
+}
+
+#laravelSkill{
+    letter-spacing: 2px;
+    text-align: left;
+    background-color: #190061;
+}
+
+#sqlSkill{
+    letter-spacing: 2px;
+    text-align: right;
+    background-color: #282828;
+}
+
+
+
+
+.body{
+    letter-spacing: 4px;
+    text-align: center;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 30px;
+    background-image: url(images/framingBackground.png);
+    background-size: 245px;
+}
+
+.skillsBody{
+    letter-spacing: 4px;
+    text-align: center;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 30px;
+    
+    
+    
+    
+}
+
+.resumeBody{
+    letter-spacing: 4px;
+    text-align: center;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 30px;
+    background-image: url(images/framingBackground.png);
+    background-size: 245px;
+    
+
+}
+
+.projectsBody{
+    letter-spacing: 4px;
+    text-align: center;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 30px;
+    background-image: url(images/framingBackground.png);
+    background-size: 245px;
+    
+
+}

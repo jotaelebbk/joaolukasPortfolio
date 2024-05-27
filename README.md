@@ -1,13 +1,13 @@
-# João Luka's Portfolio
+# Portfolio
 
-My first portfolio using only HTML and CSS
+Meu primeiro projeto de programacao usando apenas HTML e CSS
 
 ## To do
--~Add my skills~
+-~Adicionar habilidades~
 
--Fix the skill page 
+-Ajeitar a pagina de habilidades 
 
--Add any project on projects file
+
 
 ## License
 MIT License
